@@ -3,7 +3,8 @@
     "*.js": "javascript",
     "iostream": "cpp",
     "ratio": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "*.tcc": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
